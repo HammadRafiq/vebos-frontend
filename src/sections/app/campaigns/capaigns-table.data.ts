@@ -1,0 +1,66 @@
+export const tableData = [
+    {
+      campaignName: "Product Advertisement",
+      status: "Active",
+      campaignDate: "12 Nov 2023",
+      budget: "$5,500",
+      creator: "creater",
+    },
+    {
+      campaignName: "Product Advertisement",
+      status: "Active",
+      campaignDate: "12 Nov 2023",
+      budget: "$5,500",
+      creator: "creater",
+    },
+    {
+      campaignName: "Product Advertisement",
+      status: "Active",
+      campaignDate: "12 Nov 2023",
+      budget: "$5,500",
+      creator: "creater",
+    },
+    {
+      campaignName: "Product Advertisement",
+      status: "Active",
+      campaignDate: "12 Nov 2023",
+      budget: "$5,500",
+      creator: "creater",
+    },
+    {
+      campaignName: "Product Advertisement",
+      status: "Active",
+      campaignDate: "12 Nov 2023",
+      budget: "$5,500",
+      creator: "creater",
+    },
+    {
+      campaignName: "Product Advertisement",
+      status: "Active",
+      campaignDate: "12 Nov 2023",
+      budget: "$5,500",
+      creator: "creater",
+    },
+    {
+      campaignName: "Product Advertisement",
+      status: "Active",
+      campaignDate: "12 Nov 2023",
+      budget: "$5,500",
+      creator: "creater",
+    },
+    {
+      campaignName: "Product Advertisement",
+      status: "Active",
+      campaignDate: "12 Nov 2023",
+      budget: "$5,500",
+      creator: "creater",
+    },
+    {
+      campaignName: "Product Advertisement",
+      status: "Active",
+      campaignDate: "12 Nov 2023",
+      budget: "$5,500",
+      creator: "creater",
+    },
+    // Add more data as needed
+  ];
