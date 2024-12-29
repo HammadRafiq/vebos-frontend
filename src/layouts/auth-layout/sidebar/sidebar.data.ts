@@ -5,6 +5,8 @@ import {
   ProfileIcon,
 } from "@assets/icons";
 
+// random comment added
+
 export const SideBarData = [
   { id: 1, link: "/dashboard", name: "Dashboard", icon: DashboardIcon },
   { id: 4, link: "/campaigns", name: "Campaigns", icon: DashboardIcon },
